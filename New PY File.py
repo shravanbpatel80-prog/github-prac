@@ -11,3 +11,4 @@ for i in range(1, 11):
 print("The sum of numbers from 1 to 10 is:", total)
 print('data')
 print("chanhges for git pull")
+print("push data after pull")
